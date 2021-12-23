@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 		++num;
 		++user_id;
 	}
-	system("prn 1.json");
+	//system("prn 1.json"); не работает
 	getchar();
   return 0;
 }
